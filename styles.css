@@ -1,3 +1,25 @@
+
+
 .studio-header {
     list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
+
+.web {
+    color: blue;
+    text-decoration: none;
+    margin-right: 0;
+}
+
+.li-info {
+    list-style: none;
+    display: flex;
+    /* padding-right: 40 px; */
+}
+
+.p-info {
+    padding-right: 40 px;
+}
+
