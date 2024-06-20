@@ -73,21 +73,102 @@ text-decoration: none;
     margin-top: 188px;
     margin-left: 472px;
     margin-right: 472px;
-    /* width: 270px; */
+    width: 496px;
     line-height:1.07;
     letter-spacing: 0.02em;
     text-align: center;
+    color: white;
 
 
 }
 
 .btn-body {
     background-color: blue;
+    color: white;
     width: 169px;
     height: 56px;
+    text-align: center;
 }
 
 
 .btn-body:hover {
     background-color: cornflowerblue;
+}
+
+
+
+.ul-characters {
+    list-style: none;
+    display: flex;
+}
+
+.li-strategy {
+    margin-right: 24px;
+}
+
+.h2 {
+    color: #2E2F42;
+}
+
+.p-strategy {
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #434455;
+}
+
+.what {
+    display: flex;
+    justify-content: center;
+}
+
+.ul-doing {
+    list-style: none;
+    display: flex;
+    /* align-items: center; */
+}
+
+.programs {
+    margin-right: 24px;
+    margin-left: 80px;
+}
+
+.mobile {
+    margin-right: 24px;
+}
+
+.team {
+    display: flex;
+    justify-content: center;
+}
+
+.ul-personal {
+    list-style: none;
+    display: flex;
+}
+
+.mark {
+    margin-right: 24px;
+}
+
+.h2-mark {
+    display: flex;
+    justify-content: center;
+}
+
+.p-mark {
+    display: flex;
+    justify-content: center;
+}
+
+.tom {
+    margin-right: 24px;
+}
+
+.camila {
+    margin-right: 24px;
+}
+
+
+.ul-footer {
+    list-style: none;
 }
