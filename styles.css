@@ -116,10 +116,18 @@ text-decoration: none;
     color: #434455;
 }
 
+
+
 .what {
     display: flex;
     justify-content: center;
 }
+
+
+.doing {
+    margin-top:120px;
+}
+
 
 .ul-doing {
     list-style: none;
@@ -141,6 +149,11 @@ text-decoration: none;
     justify-content: center;
 }
 
+
+.personal {
+    margin-top: 120px;
+}
+
 .ul-personal {
     list-style: none;
     display: flex;
@@ -148,6 +161,7 @@ text-decoration: none;
 
 .mark {
     margin-right: 24px;
+    background-color: whitesmoke;
 }
 
 .h2-mark {
@@ -162,12 +176,18 @@ text-decoration: none;
 
 .tom {
     margin-right: 24px;
+    background-color: whitesmoke;
 }
 
 .camila {
     margin-right: 24px;
+    background-color: whitesmoke;
 }
 
+
+.daniel {
+    background-color: whitesmoke;
+}
 
 .ul-footer {
     list-style: none;
