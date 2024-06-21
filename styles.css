@@ -28,12 +28,12 @@
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-color: var(--accent-color);
+color: #4D5AE5;
 text-decoration: none;
 }
 
 .span-header {
-    color:  var(--secondary-color-text);
+    color:  white;
 }
 
 
@@ -121,6 +121,7 @@ text-decoration: none;
 .what {
     display: flex;
     justify-content: center;
+    margin-bottom: 72px;
 }
 
 
@@ -147,21 +148,25 @@ text-decoration: none;
 .team {
     display: flex;
     justify-content: center;
+    margin-bottom: 72px;
 }
 
 
 .personal {
     margin-top: 120px;
+    background-color: #F4F4FD;
 }
 
 .ul-personal {
     list-style: none;
     display: flex;
+    margin-bottom: 120px;
+    padding-left: 120px;
 }
 
 .mark {
     margin-right: 24px;
-    background-color: whitesmoke;
+    /* background-color: white; */
 }
 
 .h2-mark {
@@ -189,6 +194,26 @@ text-decoration: none;
     background-color: whitesmoke;
 }
 
+.footer {
+    width: 1440px;
+    height: 312px;
+    background-color: #2E2F42;
+}
+
+
 .ul-footer {
     list-style: none;
+    /* display: flex; */
+}
+
+
+.li-footer {
+    padding-top: 100px;
+    padding-left: 150px;
+}
+
+.p-footer {
+    padding-left: 150px;
+    width: 264px;
+    color: #F4F4FD;
 }
